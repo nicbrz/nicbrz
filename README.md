@@ -8,3 +8,11 @@
 <br>
 
 ![nicbrz GitHub stats](https://github-readme-stats.vercel.app/api?username=nicbrz&show_icons=true&theme=radical)
+
+<h3> 📚 Github Stats: <br></h3>
+  
+<div>
+  <a href="[https://github.com/nicbrz](https://github.com/nicbrz)"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nicbrz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicbrz&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
