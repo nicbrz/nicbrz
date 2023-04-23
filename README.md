@@ -7,8 +7,6 @@
  </div>
 <br>
 
-![nicbrz GitHub stats](https://github-readme-stats.vercel.app/api?username=nicbrz&show_icons=true&theme=radical)
-
 <h3> 📚 Github Stats: <br></h3>
   
 <div>
