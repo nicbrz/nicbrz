@@ -1,7 +1,7 @@
 <h3> Olá, eu sou Nicolas Braga!  Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 </h3>  
 <h4></h4>   
            
-<h6> 💫 #desenvolvimentoweb, #computação, e #tecnologia </h6>
+<h6> 💫 #desenvolvimentoweb, #computação e #tecnologia </h6>
    
 <h3> 📚 Github Stats: <br></h3>
   
