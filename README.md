@@ -21,4 +21,4 @@
   <img align="center" alt="Ally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
    <br>
-<h1 >Aprender e ensinar🚀</h1>
+<h2 >Aprender e ensinar🚀</h2>
