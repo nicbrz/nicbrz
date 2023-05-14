@@ -20,5 +20,5 @@
   <img align="center" alt="Ally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-    
-           <h1 align="center">Aprender e ensinar🚀</h1>
+   <br>
+<h1 >Aprender e ensinar🚀</h1>
