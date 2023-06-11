@@ -1,4 +1,4 @@
-<h3> Olá, eu sou Nicolas Braga!  Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 </h3>  
+<h2> Olá, sou o Nicolas Braga e estou feliz em recebê-lo(a) no meu perfil do GitHub! Sinta-se à vontade para explorar meus projetos e descobrir mais sobre meu trabalho no mundo da tecnologia. 👋🏻 </h2>  
 <h4></h4>   
            
 <h6> #desenvolvimentoweb, #computação e #tecnologia </h6>
