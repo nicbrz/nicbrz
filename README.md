@@ -6,8 +6,7 @@
 <h3> 📚 Github Stats: <br></h3>
   
 <div>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasBraga01&show_icons=true&theme=transparent)
-           [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nicolasBraga01&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nicolasBraga01)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <br>
