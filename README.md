@@ -2,9 +2,7 @@
 <h4></h4>   
            
 <h6> #desenvolvimentoweb #computação #tecnologia </h6>
-   
-<h3> 📚 Github Stats: <br></h3>
-<div>
+<div align="center">
   <a href="[https://github.com/nicolasBraga01](https://github.com/nicolasBraga01)"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nicolasBraga01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasBraga01&layout=compact&langs_count=16&theme=tokyonight"/>
