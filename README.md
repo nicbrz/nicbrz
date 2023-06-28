@@ -6,9 +6,8 @@
 <h3> 📚 Github Stats: <br></h3>
   
 <div>
-  <a href="[https://github.com/nicolasBraga01](https://github.com/nicolasBraga01)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nicolasBraga01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasBraga01&layout=compact&langs_count=16&theme=dracula"/>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasBraga01&show_icons=true&theme=transparent)
+           [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nicolasBraga01&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 </div>
 
 <br>
