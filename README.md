@@ -6,7 +6,7 @@
 <h3> 📚 Github Stats: <br></h3>
   
 <div>
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nicolasBraga01)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nicolasBraga01)](https://github.com/nicolasBraga01/github-readme-stats)
 </div>
 
 <br>
