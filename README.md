@@ -12,7 +12,7 @@
 
 <br>
   
-## Tecnologias que estou estudando 
+## Estou atualmente empenhado na aprendizagem e aprimoramento de várias tecnologias:
 
 <div style="display: inline_block"><br>
     <img align= "center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt"HTML5" />
