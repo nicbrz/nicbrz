@@ -8,7 +8,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasBraga01&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-## Explorando diversas tecnologias em estudo.
+## Explorando diversas tecnologias
 <div style="display: inline_block" align="center">
     <img align= "center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt"HTML5" />
     <img align= "center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt"css3" />
