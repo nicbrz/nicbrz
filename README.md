@@ -1,20 +1,34 @@
-<h2> Olá! Seja bem-vindo(a) ao meu perfil no GitHub. 👋 </h2>  
-<h4></h4>   
-           
-<h6> #desenvolvimentoweb #computação #tecnologia </h6>
-<div>
-  <a href="[https://github.com/nicolasBraga01](https://github.com/nicolasBraga01)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nicolasBraga01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasBraga01&layout=compact&langs_count=16&theme=tokyonight"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8Fsize=35&center=true&vCenter=true&width=1000&lines=hello,+my+name+is+Nicolas;Front-End+developer)](https://git.io/typing-svg)
+
+-----
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicolasBraga01&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicolasBraga01&hide=Html&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicolasBraga01&theme=dark) |
+| :-: | :-: | :-: |
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolasBraga01&theme=dark" alt="Detalhes do perfil do GitHub">
+</p>
+
+
+
+-----
+
+
+
+### Skills:
+<div style="display:inline-block">
+<img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
+<img src = "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+<img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-## Explorando diversas tecnologias
-<div style="display: inline-block" >
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt"HTML5" />
-    <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt"css3" />
-    <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt"javascript" />
-    <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt"React" />
-    <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt"Bootstrap" />
-       <img  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt"Sass" />     
-</div>
+## Contact ##
 
+[![https://twitter.com/nicbrz01](https://img.shields.io/badge/Nicolas-333?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nicbrz01)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=120&section=footer"/> 
