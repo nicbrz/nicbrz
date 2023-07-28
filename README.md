@@ -1,14 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8Fsize=35&center=true&vCenter=true&width=1000&lines=hello,+my+name+is+Nicolas;Front-End+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8Fsize=35&center=true&vCenter=true&width=1000&lines=hello,+my+name+is+Nicolas+Braga;Front-End+developer)](https://git.io/typing-svg)
 
 -----
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicolasBraga01&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicolasBraga01&hide=Html&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicolasBraga01&theme=dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicbrz&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicbrz&hide=Html&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicbrz&theme=dark) |
 | :-: | :-: | :-: |
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolasBraga01&theme=dark" alt="Detalhes do perfil do GitHub">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicbrz&theme=dark" alt="Detalhes do perfil do GitHub">
 </p>
 
 
