@@ -26,7 +26,7 @@
 </div>
 
 ## Contact ##
-<a href = "mailto:nicolasbraga091@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-braga-b17a16286)
 [![https://twitter.com/nicbrz01](https://img.shields.io/badge/Nicolas-333?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nicbrz01)
 
 
