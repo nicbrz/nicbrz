@@ -15,7 +15,7 @@
 
 -----
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicbrz&bg_color=0d117&color=00eeff&line=fff&point=00d5ff&area=&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Skills:
 <div style="display:inline-block">
