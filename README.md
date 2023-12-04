@@ -4,18 +4,18 @@
 
 -----
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicbrz&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicbrz&hide=Html&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicbrz&theme=dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicolasbg1&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicolasbg1&hide=Html&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicolasbg1&theme=dark) |
 | :-: | :-: | :-: |
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicbrz&theme=dark" alt="Detalhes do perfil do GitHub">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolasbg1&theme=dark" alt="Detalhes do perfil do GitHub">
 </p>
 
 
 
 -----
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicbrz&bg_color=0d117&color=00eeff&line=fff&point=00d5ff&area=&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicolasbg1&bg_color=0d117&color=00eeff&line=fff&point=00d5ff&area=&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Skills:
 <div style="display:inline-block">
@@ -30,7 +30,7 @@
 
 ## Contact ##
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-braga-b17a16286)
-[![https://twitter.com/nicbrz01](https://img.shields.io/badge/Nicolas-333?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nicbrz01)
+[![https://twitter.com/nicolasbg101](https://img.shields.io/badge/Nicolas-333?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nicolasbg101)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=120&section=footer"/> 
